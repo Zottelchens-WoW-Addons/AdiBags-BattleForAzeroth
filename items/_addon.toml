@@ -1,0 +1,24 @@
+filter_name = "Battle For Azeroth"
+filter_description = "Items from the Battle For Azeroth expansion."
+filter_author = "Zottelchen"
+prefixes = [
+    "B",
+    "B-",
+    "7.",
+    "BFA",
+    "icon:2565244",
+    "icon:2173920",
+    "icon:2203914",
+    "icon:1719414",
+    "icon:1062127",
+    "icon:2565243",
+    "icon:2199765",
+    "icon:3573824",
+]
+
+[replacers]
+ADDON_COLOR = 0x0064EB
+TOC_VERSION = "100005"
+CURSE_ID = ""
+WAGO_ID = ""
+WOW_INTERFACE_ID = ""
